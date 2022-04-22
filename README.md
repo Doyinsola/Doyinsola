@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doyinsola
 - 👀 I’m interested in data, ML, data structures and algorithms, python
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning data engineering concepts on Udacity
 - 💞️ I’m looking to collaborate on big data projects
 - 📫 How to reach me doyinfakunle@yahoo.com
 
