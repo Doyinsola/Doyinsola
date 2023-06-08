@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Doyinsola
-- 👀 I’m interested in data, ML, data structures and algorithms, python
-- 🌱 I’m currently learning data engineering concepts on Coursera
-- 💞️ I’m looking to collaborate on big data projects
+- 👀 I’m interested in data, ML, data structures and algorithms, python, SQL
+- 🌱 I’m currently learning software engineering concepts on Coursera
+- 💞️ I’m looking to collaborate on big data and backend projects
 - 📫 How to reach me doyinfakunle@yahoo.com
 
 <!---
